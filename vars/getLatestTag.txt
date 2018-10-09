@@ -1,0 +1,2 @@
+Function that will get the latest tag from git. 
+Requires tags to be fetched during checkout (this is not Jenkins standard git checkout behaviour).
